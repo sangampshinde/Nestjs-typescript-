@@ -19,3 +19,18 @@ nest new project_name
 
 # TO RUN NEST JS PROJECT
 npm run start:dev
+
+✅ Visit http://localhost:3000 — You’ll see: "Hello World!"
+
+# PROJECT STRECTURE
+
+my-nest-app/
+├── src/
+│   ├── app.controller.ts       # Handles HTTP requests
+│   ├── app.service.ts          # Business logic
+│   ├── app.module.ts           # Root module
+│   └── main.ts                 # App entry point
+├── test/                       # Auto-generated test files
+├── package.json
+├── tsconfig.json
+└── ...
