@@ -23,7 +23,6 @@ npm run start:dev
 ✅ Visit http://localhost:3000 — You’ll see: "Hello World!"
 
 # PROJECT STRECTURE
-
 my-nest-app/
 ├── src/
 │   ├── app.controller.ts       # Handles HTTP requests
